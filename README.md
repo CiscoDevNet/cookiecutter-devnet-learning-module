@@ -6,13 +6,13 @@ A cookiecutter template for creating devnet learning `modules` quickly
 ## How to use this templates
 
     pip install cookiecutter
-    cookiecutter https://github.com/kecorbin/cookiecutter-devnet-learning-module
+    cookiecutter https://github.com/CiscoDevNet/cookiecutter-devnet-learning-module
 
 
 ## Sample workflow
 
 ```
-➜  Projects cookiecutter gh:kecorbin/cookiecutter-devnet-learning-module
+➜  Projects cookiecutter gh:ciscodevnet/cookiecutter-devnet-learning-module
 module_name [my-awesome-learning-module]:
 module_desc [Allows developers to....]:
 lab_name [my-awesome-learning-lab]:
