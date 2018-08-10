@@ -18,6 +18,22 @@ For your repository, answer these questions:
 * How do I get started?
 * Where can I get more help?
 
+## Preview Learning Lab Markdown locally
+
+You can preview how the Markdown renders by using a pre-built Docker image. The `Makefile` in the root of the repository lets you run `make preview` to view the output HTML.
+
+1. Make sure you have Docker installed locally. If not, [install Docker](https://docs.docker.com/install/) for your operating system.
+   ```
+   $ docker -v
+   ```
+1. In the root of the repository, run:
+   ```
+   $ make preview
+   ```
+1. Open a browser window with the URL: `http://localhost:9000`.
+1. Click a folder to find the Markdown file you want to preview.
+1. When you are done previewing, type `Ctrl+C` to stop running the Docker container.
+
 ## Contributing
 
 These learning modules are for public consumption, so you must ensure that you have the rights to any content that you contribute.
