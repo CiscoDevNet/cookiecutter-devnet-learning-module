@@ -1,4 +1,4 @@
-## Cisco DevNet Learning Labs: {{cookiecutter.module_name}}
+# Cisco DevNet Learning Labs: {{cookiecutter.module_name}}
 
 These self-paced interactive tutorials provide instructions for developers to {{cookiecutter.module_desc}}
 
