@@ -1,8 +1,8 @@
 # Cisco DevNet Learning Labs: {{cookiecutter.module_name}}
 
-These self-paced interactive tutorials provide instructions for developers to {{cookiecutter.module_desc}}
+These self-paced interactive tutorials provide instructions for developers to learn how to install and run containers or KVM virtual machines with IOS XE device.
 
-We write these labs for display within the [Cisco DevNet Learning Labs system](https://learninglabs.cisco.com).
+We write these labs for display within the [Cisco DevNet Learning Labs system](https://developer.cisco.com/learning).
 
 Contributions are welcome, and we are glad to review changes through pull requests. See [contributing.md](contributing.md) for details.
 
@@ -12,11 +12,11 @@ The goal of these learning labs is to ensure a 'hands-on' learning approach rath
 
 ## About these Learning Labs
 
-For your repository, answer these questions:
-* What does this set of learning labs do?
-* Why is this set of learning labs useful?
-* How do I get started?
-* Where can I get more help?
+These learning labs teach how to:
+* Configure your environment so that you can deploy an application. You can reserve a DevNet Sandbox that's already configured.
+* Deploy an application.
+
+If you need more help, you can reach out to DevNet through one of our [support options](https://developer.cisco.com/site/devnet/support/).
 
 ## Preview Learning Lab Markdown locally
 
@@ -34,7 +34,7 @@ You can preview how the Markdown renders by using a pre-built Docker image. The 
 1. Click a folder to find the Markdown file you want to preview.
 1. When you are done previewing, type `Ctrl+C` to stop running the Docker container.
 
-## Contributing
+## Contributor guidelines
 
 These learning modules are for public consumption, so you must ensure that you have the rights to any content that you contribute.
 
@@ -53,7 +53,7 @@ A DevNet reviewer then creates a release on the repository with the latest `mast
 
 #### Editors
 
-You can write Markdown in a plain text editor, and desktop and Web-based options allow you to write and preview your work at the same time. We recommend Visual Studio Code [Download](https://code.visualstudio.com/) for these reasons:
+You can write Markdown in a plain text editor, and desktop and Web-based options allow you to simultaneously write and preview your work. We recommend Visual Studio Code [Download](https://code.visualstudio.com/) for these reasons:
 - Lightweight environment for coding (or writing Markdown)
 - Available on Mac OS, Linux or Windows
 - Github Client integration
